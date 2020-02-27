@@ -6,14 +6,14 @@ const subjectGroups = [science, language, math];
 const kiswahili = {
     id: 1,
     subject_group_id: 2,
-    subjectGroup: language,
+    subject_group: language,
     name: "kiswahili",
     hasLab: false
 };
 const english = {
     id: 2,
     subject_group_id: 2,
-    subjectGroup: language,
+    subject_group: language,
     name: "english",
     hasLab: false
 };
@@ -22,7 +22,7 @@ const physics = {id: 4, subject_group_id: 1, subject_group: science, name: "phys
 const mathematics = {
     id: 5,
     subject_group_id: 3,
-    subject_roup: math,
+    subject_group: math,
     name: "Mathematics",
     hasLab: false
 };
