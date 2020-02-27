@@ -17,12 +17,12 @@ const english = {
     name: "english",
     hasLab: false
 };
-const biology = {id: 3, subject_group_id: 1, subjectGroup: science, name: "biology", hasLab: true};
-const physics = {id: 4, subject_group_id: 1, subjectGroup: science, name: "physics", hasLab: true};
+const biology = {id: 3, subject_group_id: 1, subject_group: science, name: "biology", hasLab: true};
+const physics = {id: 4, subject_group_id: 1, subject_group: science, name: "physics", hasLab: true};
 const mathematics = {
     id: 5,
     subject_group_id: 3,
-    subjectGroup: math,
+    subject_roup: math,
     name: "Mathematics",
     hasLab: false
 };
